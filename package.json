@@ -1,6 +1,6 @@
 {
   "name": "@keterx/szamlazz.js",
-  "version": "6.1.0",
+  "version": "6.1.1",
   "description": "FORK from Elastic Wings Ltd. szamlazz.js - please use the original version",
   "type": "module",
   "exports": "./index.js",
